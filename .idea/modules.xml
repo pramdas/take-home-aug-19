@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webdata-analytics.iml" filepath="$PROJECT_DIR$/.idea/modules/webdata-analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/webdata-analytics.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/webdata-analytics.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/webdata-analytics.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/webdata-analytics.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/webdata-analytics.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/webdata-analytics.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webdata-analytics.main.iml" filepath="$PROJECT_DIR$/.idea/modules/webdata-analytics.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netflix-data-analytics/webdata-analytics.netflix-data-analytics.iml" filepath="$PROJECT_DIR$/.idea/modules/netflix-data-analytics/webdata-analytics.netflix-data-analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netflix-data-analytics/webdata-analytics.netflix-data-analytics.main.iml" filepath="$PROJECT_DIR$/.idea/modules/netflix-data-analytics/webdata-analytics.netflix-data-analytics.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netflix-data-analytics/webdata-analytics.netflix-data-analytics.test.iml" filepath="$PROJECT_DIR$/.idea/modules/netflix-data-analytics/webdata-analytics.netflix-data-analytics.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webdata-analytics.test.iml" filepath="$PROJECT_DIR$/.idea/modules/webdata-analytics.test.iml" />
+    </modules>
+  </component>
+</project>
