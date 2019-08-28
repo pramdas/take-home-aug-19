@@ -12,7 +12,7 @@ public class NetflixDataCodecTest {
     NetflixDataCodec codec = new NetflixDataCodec();
     String input = "data: {\"device\":\"xbox_one\",\"sev\":\"error\",\"title\":\"orange is the new black\",\"country\":\"IND\",\"time\":1515445354624}";
     NetflixWebdata data = (NetflixWebdata) codec.decode(input);
-    Assert.assertEquals("xbox", data.getDevice());
+    Assert.assertEquals("xbox_one", data.getDevice());
 
 
   }
