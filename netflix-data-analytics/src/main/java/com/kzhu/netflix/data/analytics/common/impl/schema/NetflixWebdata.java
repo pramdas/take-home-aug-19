@@ -23,38 +23,34 @@ public class NetflixWebdata implements Webdata, Serializable {
         return _sev.equalsIgnoreCase(SESSION_START_VALUE);
     }
 
-    public String get_device() {
+    public String getDevice() {
         return _device;
     }
 
-    public String get_country() {
+    public String getCountry() {
         return _country;
     }
 
-    public String get_title() {
+    public String getTitle() {
         return _title;
     }
 
     @Override public String toString() {
-        return new StringBuilder()
-          .append(_device)
-          .append(",")
-          .append(_sev)
-          .append(",")
-          .append(_country)
-          .append(",")
-          .append(_title)
-          .toString();
+        return _device +
+          "," +
+          _sev +
+          "," +
+          _country +
+          "," +
+          _title;
     }
 
     @Override
     public String hashKey() {
-        return new StringBuilder()
-          .append(_device)
-          .append(",")
-          .append(_country)
-          .append(",")
-          .append(_title)
-          .toString();
+        return _device +
+          "," +
+          _country +
+          "," +
+          _title;
     }
 }
