@@ -18,7 +18,7 @@
 
 <h3> Running the Program</h3>
 <ul>
-<li>git clone git@github.com:kevin-zhu/webdata-analytics.git</li>
+<li>git clone repo</li>
 <li>./gradlew run</li>
 </ul>
 
